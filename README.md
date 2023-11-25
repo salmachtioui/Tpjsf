@@ -1,15 +1,15 @@
 # Tpjsf
 # Gestion des Employés et Services
-Cette application web de gestion des employés et des services a été développée en utilisant les technologies suivantes : JSF, Hibernate, et MySQL.
+L'idée du projet "Gestion des Employés et Services" consiste à développer une application web permettant aux entreprises de gérer facilement les informations liées à leurs employés et services. L'objectif est de fournir une plateforme intuitive avec des fonctionnalités clés pour simplifier la gestion des ressources humaines
 
 # Fonctionnalités
 Ajouter, supprimer, et modifier les informations d'un employé.
 Filtrer les employés par service.
 Afficher un graphique représentant le nombre d'employés par service.
 # Technologies Utilisées
-JavaServer Faces (JSF)
-Hibernate
-MySQL
+JavaServer Faces (JSF) : Pour la création d'interfaces utilisateur basées sur des composants.
+Hibernate : Pour la gestion de la persistance des données et l'interaction avec la base de données MySQL.
+MySQL : Comme système de gestion de base de données pour stocker les informations sur les employés et les services.
 # Configuration du Projet
 Cloner le Projet :
 
