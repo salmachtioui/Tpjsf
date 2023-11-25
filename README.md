@@ -56,5 +56,8 @@ src/main/resources: Contient les fichiers de configuration, comme persistence.xm
 ![im6](https://github.com/salmachtioui/Tpjsf/assets/147477621/ee8406c2-43b0-4a3b-96f5-8c8872c8b179)
 # Capture d'Écran 7:Interface pour l'ajout des services
 ![im7](https://github.com/salmachtioui/Tpjsf/assets/147477621/40f08316-2c4e-4828-86f5-e85ba49a318f)
-
+# Conclusion
+En conclusion, le projet "Gestion des Employés et Services" a réussi à créer une application web efficace utilisant JavaServer Faces (JSF), Hibernate et MySQL. Cette plateforme offre des fonctionnalités clés, telles que l'ajout, la suppression et la modification des informations des employés, ainsi que la possibilité de filtrer les employés par service. De plus, la visualisation graphique du nombre d'employés par service améliore la lisibilité des données. Cette solution représente une avancée significative dans la simplification de la gestion des ressources humaines pour les entreprises.
+# Configuration
+Vous pouvez cloner le projet et le lancer :https://github.com/salmachtioui/Tpjsf.git
 
