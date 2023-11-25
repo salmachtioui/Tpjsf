@@ -37,11 +37,11 @@ src/main/resources: Contient les fichiers de configuration, comme persistence.xm
 # Captures d'Écran
 # Capture d'Écran 1: Page d'authentification 
 ![im8](https://github.com/salmachtioui/Tpjsf/assets/147477621/3458adef-1263-4441-8e2e-66e885e79c5b)
-# Lorsque l'empolye va taper un login correct 
+# Lorsque l'employe va taper un login correct 
 ![im9](https://github.com/salmachtioui/Tpjsf/assets/147477621/9996594e-4fcc-453f-a067-af548a541c4f)
 # L'employe clique sur "Logout" ,il revient à la page d'authtification precedente
 ![im10](https://github.com/salmachtioui/Tpjsf/assets/147477621/aa383059-b9d7-452a-9c62-2fa40d22d5cd)
-# Lorsque l' empolye va taper un login incorrect 
+# Lorsque l'empoloye va taper un login incorrect 
 ![im11](https://github.com/salmachtioui/Tpjsf/assets/147477621/f86f6593-1170-4f18-8ab0-39fba078090f)
 # Capture d'Écran 2:Ajout d'un employe
 ![im1](https://github.com/salmachtioui/Tpjsf/assets/147477621/ffd5e4a7-fdbf-4e78-a8b9-336dd39deb84)
@@ -50,11 +50,11 @@ src/main/resources: Contient les fichiers de configuration, comme persistence.xm
 ![im3](https://github.com/salmachtioui/Tpjsf/assets/147477621/b5ca7cc3-a963-423c-904d-920aed72d87d)
 # Capture d'Écran 4:Supprimer d'un employe
 ![im4](https://github.com/salmachtioui/Tpjsf/assets/147477621/0147a3f9-d7d9-46be-b9e8-047521607182)
-# Capture d'Écran 5:Filtrage des emplyes par service
+# Capture d'Écran 5:Filtrage(Recherche) des employes par service
 ![im5](https://github.com/salmachtioui/Tpjsf/assets/147477621/20f38326-6a5d-4316-b9c6-862a1555025f)
-# Capture d'Écran 6:Graphe de nombre des  emplyes par service
+# Capture d'Écran 6:Graphe de nombre des  employes par service
 ![im6](https://github.com/salmachtioui/Tpjsf/assets/147477621/ee8406c2-43b0-4a3b-96f5-8c8872c8b179)
-# Capture d'Écran 7:Interface pour l'ajout des services
+# Capture d'Écran 7:Interface pour l'ajout/suppression/modification des services
 ![im7](https://github.com/salmachtioui/Tpjsf/assets/147477621/40f08316-2c4e-4828-86f5-e85ba49a318f)
 # Conclusion
 En conclusion, le projet "Gestion des Employés et Services" a réussi à créer une application web efficace utilisant JavaServer Faces (JSF), Hibernate et MySQL. Cette plateforme offre des fonctionnalités clés, telles que l'ajout, la suppression et la modification des informations des employés, ainsi que la possibilité de filtrer les employés par service. De plus, la visualisation graphique du nombre d'employés par service améliore la lisibilité des données. Cette solution représente une avancée significative dans la simplification de la gestion des ressources humaines pour les entreprises.
