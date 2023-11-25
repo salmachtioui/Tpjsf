@@ -15,7 +15,7 @@ Cloner le Projet :
 
 bash
 Copy code
-git clone https://github.com/votre-utilisateur/gestion-employes-services.git
+git clone https://github.com/salmachtioui/Tpjsf.git
 cd gestion-employes-services
 # Configurer la Base de Données :
 
@@ -31,7 +31,7 @@ mvn clean install
 Démarrez le serveur intégré ou déployez le projet sur un serveur compatible JSF.
 # Accéder à l'Application :
 
-Accédez à l'application depuis votre navigateur à l'URL : http://localhost:8080/nom-de-l-application
+Accédez à l'application depuis votre navigateur à l'URL : http://localhost:24017/jsf7_1/faces/web/employe/employeForm.xhtml
 # Structure du Projet
 src/main/java: Contient les packages Java pour les beans, les entités, etc.
 src/main/webapp: Contient les pages JSF, les fichiers de ressources, etc.
@@ -42,10 +42,13 @@ src/main/resources: Contient les fichiers de configuration, comme persistence.xm
 
 # Captures d'Écran
 # Capture d'Écran 1: Page d'authentification 
-![im11](https://github.com/salmachtioui/Tpjsf/assets/147477621/f86f6593-1170-4f18-8ab0-39fba078090f)
-![im10](https://github.com/salmachtioui/Tpjsf/assets/147477621/aa383059-b9d7-452a-9c62-2fa40d22d5cd)
-![im9](https://github.com/salmachtioui/Tpjsf/assets/147477621/9996594e-4fcc-453f-a067-af548a541c4f)
 ![im8](https://github.com/salmachtioui/Tpjsf/assets/147477621/3458adef-1263-4441-8e2e-66e885e79c5b)
+# Lorsque l'empolye va taper un login correct 
+![im9](https://github.com/salmachtioui/Tpjsf/assets/147477621/9996594e-4fcc-453f-a067-af548a541c4f)
+# L'employe clique sur "Logout" ,il revient à la page d'authtification precedente
+![im10](https://github.com/salmachtioui/Tpjsf/assets/147477621/aa383059-b9d7-452a-9c62-2fa40d22d5cd)
+# Lorsque l"empolye va taper un login incorrect 
+![im11](https://github.com/salmachtioui/Tpjsf/assets/147477621/f86f6593-1170-4f18-8ab0-39fba078090f)
 # Capture d'Écran 2:Ajout employe
 ![im1](https://github.com/salmachtioui/Tpjsf/assets/147477621/ffd5e4a7-fdbf-4e78-a8b9-336dd39deb84)
 ![im2](https://github.com/salmachtioui/Tpjsf/assets/147477621/a7ef70f5-bb62-4ad5-a368-09f28837e985)
