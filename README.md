@@ -19,19 +19,15 @@ git clone https://github.com/salmachtioui/Tpjsf.git
 cd gestion-employes-services
 # Configurer la Base de Données :
 
-Créer une base de données MySQL nommée "jsftp".
-Mettre à jour le fichier src/main/resources/META-INF/persistence.xml avec vos informations de connexion à la base de données.
-Exécuter l'Application :
-
-Assurez-vous d'avoir Maven installé.
-Exécutez la commande :
+. Créer une base de données MySQL nommée "jsftp".
+. Mettre à jour le fichier src/main/resources/META-INF/persistence.xml avec vos informations de connexion à la base de données.
+# Exécuter l'Application :
+. Assurez-vous d'avoir Maven installé.
+. Exécutez la commande :
 bash
 Copy code
 mvn clean install
 Démarrez le serveur intégré ou déployez le projet sur un serveur compatible JSF.
-# Accéder à l'Application :
-
-Accédez à l'application depuis votre navigateur à l'URL : http://localhost:24017/jsf7_1/faces/web/employe/employeForm.xhtml
 # Structure du Projet
 src/main/java: Contient les packages Java pour les beans, les entités, etc.
 src/main/webapp: Contient les pages JSF, les fichiers de ressources, etc.
